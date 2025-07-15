@@ -1,6 +1,6 @@
 ### Hi, I'm Azardokht Aryaei 👋
 
-- 🔭 I’m a a Junior Software Developer
+- 🔭 I’m a Junior Software Developer
 - 🌱 I’m currently learning Spring Framework
 - 👯 I’m looking to collaborate on software development projects
 - 💬 Ask me about anything
